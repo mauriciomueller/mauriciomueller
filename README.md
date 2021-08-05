@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-mueller-zaccarias-1881777/)](https://www.linkedin.com/in/mauricio-mueller-zaccarias-1881777/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mauriciomueller@gmail.com)](mailto:mauriciomueller@gmail.com)
+
 - 🚀 I’m currently working on Dooca Commerce
 - 🌱 I’m currently learning Design Patterns
 - 👯 I’m looking to collaborate on Dev Community
