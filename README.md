@@ -1,4 +1,4 @@
-![alt text](https://github.com/mauriciomueller/mauriciomueller/blob/main/git-mauricio.png?raw=true)
+![Full Stack Developer](https://github.com/mauriciomueller/mauriciomueller/blob/main/github-mauricio.png?raw=true)
 
 ### Hi there 👋
 
