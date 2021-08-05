@@ -1,4 +1,4 @@
-![Full Stack Developer](https://github.com/mauriciomueller/mauriciomueller/blob/main/git-banner.png?raw=true)
+![Full Stack Developer](https://github.com/mauriciomueller/mauriciomueller/blob/main/git-banner-all.png?raw=true)
 
 ### Hi there 👋
 
