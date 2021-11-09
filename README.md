@@ -10,8 +10,8 @@
 - 👯 I’m looking to collaborate on Dev Community
 - 🤔 Interested in Artificial Inteligence 
 - 💬 Ask me about anything I know
-- 📫 How to reach me: contato@mauriciomueller.com.br
-- ⚡ Not is impossible!
+- 📫 How to reach me: mauriciomueller@gmail.com
+- ⚡ Nothing is impossible!
 
 ### Some Projects
 
