@@ -1,5 +1,3 @@
-![Full Stack Developer](https://github.com/mauriciomueller/mauriciomueller/blob/main/git-banner-all.png?raw=true)
-
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-mueller-zaccarias-1881777/)](https://www.linkedin.com/in/mauricio-mueller-zaccarias-1881777/)
