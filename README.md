@@ -7,7 +7,13 @@
 - 📫 How to reach me: mauriciomueller@gmail.com
 - ⚡ Nothing is impossible!
 
-### Some Projects
+### Recent Projects
+
+#### NewsFeed Aggregator
+React Frontend: https://github.com/mauriciomueller/newsfeed-frontend
+Laravel Backend: https://github.com/mauriciomueller/newsfeed-backend
+
+### Some Old Projects
 
 | Name                                                                                 | Tags                                                       
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
