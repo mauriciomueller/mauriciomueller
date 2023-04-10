@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 Passionate about Design Pattern, Solid, Clean Code, DDD and TDD
 - 👯 I’m looking to collaborate on Dev Community
@@ -7,12 +7,22 @@
 - 📫 How to reach me: mauriciomueller@gmail.com
 - ⚡ Nothing is impossible!
 
+
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,jquery,nodejs,mysql,mongodb,graphql,git,docker,linux,aws,nginx,apache,redis,rabbitmq,tailwind,sass,figma,xd,ps,ai,&theme=light)](https://skillicons.dev)
+
 ### Recent Projects
 
-#### NewsFeed Aggregator
-React Frontend: https://github.com/mauriciomueller/newsfeed-frontend
+#### Quickcard Generator
+- [React Frontend](https://github.com/mauriciomueller/quickcard-frontend)
+- [Laravel Backend](https://github.com/mauriciomueller/newsfeed-backend)
 
-Laravel Backend: https://github.com/mauriciomueller/newsfeed-backend
+
+#### NewsFeed Aggregator
+- [React Frontend](https://github.com/mauriciomueller/newsfeed-frontend)
+- [Laravel Backend](https://github.com/mauriciomueller/newsfeed-backend)
+
 
 ### Some Old Projects
 
